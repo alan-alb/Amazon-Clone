@@ -1,4 +1,4 @@
-#AMAZON-CLONE
+
 
 This repository contains the code for a simplified Amazon clone, created using HTML and CSS. The project aims to replicate some of the key features and styling of the Amazon website's header, hero section, product categories, and footer.
 
